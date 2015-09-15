@@ -14,7 +14,7 @@ Time: I spent around 5-6 hours on the exercise
 
 Walkthrough of all the app stories:
 
-![Video Walkthrough](tips.gif)
+![Video Walkthrough](https://cloud.githubusercontent.com/assets/12520520/9864939/09e01286-5b04-11e5-88a2-b6cb939cac00.gif)
 
 ## What did I miss?
 
